@@ -19,7 +19,7 @@ const Sidebar = ({ topics, onTopicSelect }) => {
 
   return (
     <div style={styles.sidebar}>
-      <h2 style={styles.heading}>Potta Praveen</h2>
+      <h2 style={styles.heading}>TechCrack</h2>
       <ul style={styles.list}>
         {topics?.map((topic) => (
           <li
