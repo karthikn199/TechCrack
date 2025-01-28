@@ -60,7 +60,7 @@ const styles = {
     fontSize: "24px",
     fontWeight: "bold",
     marginBottom: "20px",
-    textAlign: "center",
+    // textAlign: "center",
     color: "#333",
     background: "linear-gradient(90deg, #4CAF50, #81C784)", // Gradient background
     WebkitBackgroundClip: "text",
